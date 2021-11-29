@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @csarangi
+- 👋 Hi, I’m @csarangi, I have 2 beautiful kids Kiaan & Nevaan.
 - 👀 I’m interested in AWS, GCP, Docker, K8s,Python
 - 🌱 I’m currently learning Jenkins,GCP
 - 💞️ I’m looking to collaborate on Python
